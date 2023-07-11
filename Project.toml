@@ -1,0 +1,6 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+ExaPF = "0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
